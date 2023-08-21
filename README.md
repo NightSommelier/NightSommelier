@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" title="Hi there" width="36" height="36"> Hi there, I'm Sommelier – Python Developer.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0963F7&multiline=true&width=820&height=100&lines=Working+with+products+in+telegram+(such+as+stores+and+services).;Working+with+API+(Flask-Restful%2C+DRF%2C+FastAPI%2C+Robyn).;Working+with+web+products+on+Django%2C+Wagtail%2C+Flask.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=26A6F7&multiline=true&repeat=false&width=820&height=100&lines=Working+with+products+in+telegram+(such+as+stores+and+services).;Working+with+API+(Flask-Restful%2C+DRF%2C+FastAPI%2C+Robyn).;Working+with+web+products+on+Django%2C+Wagtail%2C+Flask.)
 
 - - -
 
