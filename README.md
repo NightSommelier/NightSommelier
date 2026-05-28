@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" title="Hi there" width="36" height="36"> Hi there, I'm Sommelier – Python Developer.
+# <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" title="Hi there" width="36" height="36"> Hi there, I'm Sommelier – SysAdmin & DevOps.
 
 
 ## ⚙️ Languages and Tools:
